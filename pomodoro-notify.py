@@ -61,7 +61,7 @@ def main():
     n = pynotify.Notification(title, body, "dialog-info")
     n.set_urgency(pynotify.URGENCY_NORMAL)
     n.show()
-    n.close()
+    #n.close()
 
 if __name__ == '__main__':
     main()
