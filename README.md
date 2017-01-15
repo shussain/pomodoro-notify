@@ -1,6 +1,6 @@
 # Pomodoro Notify
 
-Written by Samir Hussain <shussain@credil.org>
+Written by Samir Hussain <samir@samirhussain.ca>
 
 This script is a Pomodoro timing tool (http://en.wikipedia.org/wiki/Pomodoro_Technique)
 
